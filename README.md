@@ -1,5 +1,7 @@
 # Fundamentos Ágiles - Grava Jam 2021
 
+![image](https://user-images.githubusercontent.com/32349705/133486458-328ece26-683f-4923-89fe-2257bae05c8f.png)
+
 En este apartado podrán encontrar recursos y material diverso acerca de los tópicos abarcados en la charla "Fundamentos Ágiles para llevar adelante Proyectos Digitales".
 
 # Grabación de la charla y diapositivas
