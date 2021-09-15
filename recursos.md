@@ -15,10 +15,14 @@
 
 #### Apuntes
 * La Guía 
+* 
 #### Libros
 * Hammarberg, Marcus - Kanban in Action
 * Cockburn, Alistair - Heart of Agile white paper
-* 
+* Derby, Esther - Agile Retrospectives
+* Benson, Jim - Personal Kanban: Mapping Work | Navigating Life
+* Beck, Kent - Extreme Programming Explained (libro sobre XP)
+* Jacobson, Ivar - The Essence of Software Engineering
 
 #### Videos
 * Martin, Robert C. - [Clean Agile: Back to Basics (en YouTube)](https://www.youtube.com/watch?v=4JihsBOBbdI)
