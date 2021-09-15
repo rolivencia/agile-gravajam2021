@@ -6,8 +6,8 @@ En este apartado podrán encontrar recursos y material diverso acerca de los tó
 
 # Grabación de la charla y diapositivas
 
-Disponible en YouTube: https://www.youtube.com/watch?v=PxXdcQrPIUI
-Diapositivas, en Github: https://github.com/rolivencia/agile-gravajam2021/blob/main/slides.pdf
+* Disponible en YouTube: https://www.youtube.com/watch?v=PxXdcQrPIUI
+* Diapositivas, en Github: https://github.com/rolivencia/agile-gravajam2021/blob/main/slides.pdf
 
 # Recursos
 
