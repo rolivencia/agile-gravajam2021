@@ -19,10 +19,10 @@ Diapositivas, en Github: https://github.com/rolivencia/agile-gravajam2021/blob/m
 
 ## Agilidad
 
-### Apuntes y Artículos
+### Apuntes y Artículos (en español)
 * Sutherland, Jeff - [La Guía Oficial de Scrum](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Spanish-Latin-South-American.pdf)
 * Vacanti, Daniel - [La Guía Kanban para equipos Scrum](https://scrumorg-website-prod.s3.amazonaws.com/drupal/2020-06/2019-09-Kanban-Guide-for-Scrum-Teams-Spanish%20European.pdf)
-* Cockburn, Alistair - Heart of Agile white paper
+* Cockburn, Alistair - [Heart of Agile white paper](https://heartofagile.com/wp-content/uploads/2020/12/El-Corazon-de-la-Agilidad.pdf)
   
 ### Libros
 ##### Títulos para comprar o buscar online
@@ -55,4 +55,5 @@ Diapositivas, en Github: https://github.com/rolivencia/agile-gravajam2021/blob/m
 * [Digital Project Manager's "A Project Manager’s Guide To 42 Agile Methodologies"](https://thedigitalprojectmanager.com/agile-methodologies/)
 * [Manifiesto por el Desarrollo Ágil de Software](https://agilemanifesto.org/iso/es/manifesto.html)
 * [El Consejero Ágil, guía de Atlassian](https://www.atlassian.com/es/agile)
+* [El Corazón de los Equipos Ágiles, 10pines](https://10pines.gitbook.io/desarrollo-de-software-agil-en-10pines/el-corazon-de-los-equipos-agiles-en-10pines)
 
